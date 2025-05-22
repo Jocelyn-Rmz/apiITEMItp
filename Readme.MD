@@ -10,11 +10,9 @@
 
 ### Presentan: 
 
-### Cruz García Luz María
+### Cruz García Luz María 21200647
 
-### Ramírez Pérez Jocelyn
-
-### No. Control: 21200663
+### Ramírez Pérez Jocelyn 21200663
 
 ### Semestre: 8vo
 
